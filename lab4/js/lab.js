@@ -5,7 +5,7 @@
 // @author AuthorName.
 //@since x.x.x
 
-  //Program asks user for name then greets user with inputted naem
+    //Program asks user for name then greets user with inputted naem
     //Ask User For name
       //Print Text "Enter Your Name"
       //Allow user input
